@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: c18345ca-0d9f-4d83-8e40-b87a265904e5
+
+localResources:
+  collections:
+    - ../Taller8.postman_collection.json
